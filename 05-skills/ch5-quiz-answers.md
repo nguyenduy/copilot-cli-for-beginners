@@ -74,3 +74,8 @@
 
 **15. What is the recommended way to structure a skill for a team code review checklist?**
 - Use a SKILL.md with a clear name, a description matching how your team asks for reviews, and a markdown checklist of all review points.
+
+
+## Note
+/review invoke review agent (not skill named review).
+/quick-review signify agent to use quick-review skill.
